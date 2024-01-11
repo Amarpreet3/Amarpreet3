@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amarpreet Kaur
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m interested in Data Science and AI
 - 🌱 I’m experieneced Data Analysis using Python, SQL and R
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me at my email gurmkauramarpreet@gmail.com
