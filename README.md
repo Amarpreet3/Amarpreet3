@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amarpreet Kaur
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m experieneced Data Analysis using Python, SQL and R
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me at my email gurmkauramarpreet@gmail.com
+- 👀 As a Research Assistant, Data Scientist, Machine Learning Engineer, Data Analyst, and AI Specialist, I'm deeply passionate about the fields of Data Science and AI.
+- 🌱 With proficiency in Python, SQL, and R, I bring extensive experience in Data Analysis to the table.
+- 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
+- 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
 
 <!---
 Amarpreet3/Amarpreet3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
