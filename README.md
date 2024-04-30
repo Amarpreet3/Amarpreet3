@@ -12,6 +12,15 @@
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 
+[Python](https://www.python.org) <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="16" height="16">
+[R](https://www.r-project.org) <img src="https://img.icons8.com/color/48/000000/r-programming-language.png" alt="R Icon" width="16" height="16">
+[C](https://www.iso.org/standard/74528.html) <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="16" height="16">
+[C++](https://isocpp.org) <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="16" height="16">
+[Java](https://www.oracle.com/java) <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" width="16" height="16">
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="16" height="16">
+[Regex](https://www.regular-expressions.info) <img src="https://img.icons8.com/ios/50/000000/search--v1.png" alt="Regex Icon" width="16" height="16">
+
+### -
 
 [![SAS](https://img.shields.io/badge/-SAS-CA2129?style=flat-square&logo=SAS&logoColor=white)](https://www.sas.com)
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
@@ -41,13 +50,6 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
 
-[Python](https://www.python.org) <img src="https://github.com/github/octicons/blob/main/icons/python-16.svg" alt="Python Icon" width="16" height="16">
-[R](https://www.r-project.org) <img src="https://github.com/github/octicons/blob/main/icons/r-16.svg" alt="R Icon" width="16" height="16">
-[C](https://www.iso.org/standard/74528.html) <img src="https://github.com/github/octicons/blob/main/icons/c-16.svg" alt="C Icon" width="16" height="16">
-[C++](https://isocpp.org) <img src="https://github.com/github/octicons/blob/main/icons/c-plusplus-16.svg" alt="C++ Icon" width="16" height="16">
-[Java](https://www.oracle.com/java) <img src="https://github.com/github/octicons/blob/main/icons/java-16.svg" alt="Java Icon" width="16" height="16">
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://github.com/github/octicons/blob/main/icons/javascript-16.svg" alt="JavaScript Icon" width="16" height="16">
-[Regex](https://www.regular-expressions.info) <img src="https://github.com/github/octicons/blob/main/icons/search-16.svg" alt="Regex Icon" width="16" height="16">
 
 
 
