@@ -4,8 +4,15 @@
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
 - 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
+[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
+
+
 [![SAS](https://img.shields.io/badge/-SAS-CA2129?style=flat-square&logo=SAS&logoColor=white)](https://www.sas.com)
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)](https://hadoop.apache.org)
@@ -15,10 +22,6 @@
 [![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)](https://spark.apache.org)
 [![Sqoop](https://img.shields.io/badge/-Sqoop-72147E?style=flat-square)](https://sqoop.apache.org)
 [![XML](https://img.shields.io/badge/-XML-007ACC?style=flat-square)](https://www.w3.org/XML)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://img.shields.io/badge/-Regex-FFDD0D?style=flat-square&logo=JSFiddle&logoColor=black)](https://www.regular-expressions.info)
 [![Power Query](https://img.shields.io/badge/-Power_Query-217346?style=flat-square)](https://powerquery.microsoft.com)
 [![M-code language](https://img.shields.io/badge/-M_code-6504B5?style=flat-square)](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-reference)
@@ -37,36 +40,8 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
-[![SAS](https://skillicons.dev/icons?i=sas)](https://www.sas.com)
-[![SQL](https://skillicons.dev/icons?i=sql)](https://www.postgresql.org)
-[![Hadoop](https://skillicons.dev/icons?i=hadoop)](https://hadoop.apache.org)
-[![Hive](https://skillicons.dev/icons?i=hive)](https://hive.apache.org)
-[![Pig](https://skillicons.dev/icons?i=pig)](https://pig.apache.org)
-[![Oozie](https://skillicons.dev/icons?i=oozie)](https://oozie.apache.org)
-[![Spark](https://skillicons.dev/icons?i=spark)](https://spark.apache.org)
-[![Sqoop](https://skillicons.dev/icons?i=sqoop)](https://sqoop.apache.org)
-[![XML](https://skillicons.dev/icons?i=xml)](https://www.w3.org/XML)
-[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
-[![PowerQuery](https://skillicons.dev/icons?i=powerquery)](https://powerquery.microsoft.com)
-[![MCode](https://skillicons.dev/icons?i=mcode)](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-reference)
 
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
-[![Tableau](https://skillicons.dev/icons?i=tableau)](https://www.tableau.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
-[![Apache Airflow](https://skillicons.dev/icons?i=airflow)](https://airflow.apache.org)
 
-- [WEKA](https://www.cs.waikato.ac.nz/ml/weka/)
-- [IBM Watson](https://www.ibm.com/watson)
-- [Hortonworks](https://cloudera.com/about/hortonworks.html)
-- [Alteryx](https://www.alteryx.com)
-- [SAP](https://www.sap.com)
-- [MS-Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
-- [Power BI](https://powerbi.microsoft.com)
-- [QlikView](https://www.qlik.com/us/products/qlikview)
+
+
 
