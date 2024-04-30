@@ -4,9 +4,6 @@
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
 - 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
 
-<p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;6%2B+years+of+coding+experience;Always+learning+new+things"></a>
-</p>
 
 <a href="https://www.python.org">
   <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
