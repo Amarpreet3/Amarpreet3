@@ -32,7 +32,7 @@
   <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regex" width="50" height="50">
 </a>
 
-### -
+
 
 [![SAS](https://img.shields.io/badge/-SAS-CA2129?style=flat-square&logo=SAS&logoColor=white)](https://www.sas.com)
 [![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
