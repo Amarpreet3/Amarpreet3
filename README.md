@@ -45,3 +45,18 @@
 ![Regex](https://img.shields.io/badge/-Regex-FFDD0D?style=flat-square&logo=JSFiddle&logoColor=black)
 ![Power Query](https://img.shields.io/badge/-Power_Query-217346?style=flat-square)
 ![M-code language](https://img.shields.io/badge/-M_code-6504B5?style=flat-square)
+
+
+![WEKA](https://img.shields.io/badge/-WEKA-000000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-BE95FF?style=flat-square)
+![Hortonworks](https://img.shields.io/badge/-Hortonworks-FE7A16?style=flat-square&logo=ApacheHive&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-84BEE9?style=flat-square)
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white)
+![MS-Project](https://img.shields.io/badge/-MS%20Project-217346?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+![QlikView](https://img.shields.io/badge/-QlikView-FF4C4C?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)
+
