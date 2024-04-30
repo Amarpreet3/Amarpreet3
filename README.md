@@ -41,13 +41,14 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
 
-[Python](https://www.python.org) ![Python Icon](https://github.com/github/octicons/blob/main/icons/python-16.svg)
-[R](https://www.r-project.org) ![R Icon](https://github.com/github/octicons/blob/main/icons/r-16.svg)
-[C](https://www.iso.org/standard/74528.html) ![C Icon](https://github.com/github/octicons/blob/main/icons/c-16.svg)
-[C++](https://isocpp.org) ![C++ Icon](https://github.com/github/octicons/blob/main/icons/c-plusplus-16.svg)
-[Java](https://www.oracle.com/java) ![Java Icon](https://github.com/github/octicons/blob/main/icons/java-16.svg)
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript Icon](https://github.com/github/octicons/blob/main/icons/javascript-16.svg)
-[Regex](https://www.regular-expressions.info) ![Regex Icon](https://github.com/github/octicons/blob/main/icons/search-16.svg)
+[Python](https://www.python.org) <img src="https://github.com/github/octicons/blob/main/icons/python-16.svg" alt="Python Icon" width="16" height="16">
+[R](https://www.r-project.org) <img src="https://github.com/github/octicons/blob/main/icons/r-16.svg" alt="R Icon" width="16" height="16">
+[C](https://www.iso.org/standard/74528.html) <img src="https://github.com/github/octicons/blob/main/icons/c-16.svg" alt="C Icon" width="16" height="16">
+[C++](https://isocpp.org) <img src="https://github.com/github/octicons/blob/main/icons/c-plusplus-16.svg" alt="C++ Icon" width="16" height="16">
+[Java](https://www.oracle.com/java) <img src="https://github.com/github/octicons/blob/main/icons/java-16.svg" alt="Java Icon" width="16" height="16">
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://github.com/github/octicons/blob/main/icons/javascript-16.svg" alt="JavaScript Icon" width="16" height="16">
+[Regex](https://www.regular-expressions.info) <img src="https://github.com/github/octicons/blob/main/icons/search-16.svg" alt="Regex Icon" width="16" height="16">
+
 
 
 
