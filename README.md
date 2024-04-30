@@ -7,3 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,pytorch,tensorflow)](https://skillicons.dev)
 
 [![Programming Languages](https://skillicons.dev/icons?i=python,r,sas,sql,hadoop,hive,pig,spark,sqoop,xml,c,cpp,java,javascript,regex,powerquery)](https://skillicons.dev)
+[![Software Tools](https://skillicons.dev/icons?i=mongodb,tableau,docker,airflow)](https://skillicons.dev)
