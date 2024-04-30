@@ -4,14 +4,6 @@
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
 - 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
 
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org)
-[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
-
 <a href="https://www.python.org">
   <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
 </a>
