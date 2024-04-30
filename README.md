@@ -12,13 +12,13 @@
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 
-[Python](https://www.python.org) <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="16" height="16">
-[R](https://www.r-project.org) <img src="https://img.icons8.com/color/48/000000/r-programming-language.png" alt="R Icon" width="16" height="16">
-[C](https://www.iso.org/standard/74528.html) <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="16" height="16">
-[C++](https://isocpp.org) <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++ Icon" width="16" height="16">
-[Java](https://www.oracle.com/java) <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Icon" width="16" height="16">
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="16" height="16">
-[Regex](https://www.regular-expressions.info) <img src="https://img.icons8.com/ios/50/000000/search--v1.png" alt="Regex Icon" width="16" height="16">
+[![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/python.svg)](https://www.python.org)
+[![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
+[![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg)](https://www.iso.org/standard/74528.html)
+[![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg)](https://isocpp.org)
+[![Java](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/java.svg)](https://www.oracle.com/java)
+[![JavaScript](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Regex](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg)](https://www.regular-expressions.info)
 
 ### -
 
