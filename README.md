@@ -67,7 +67,7 @@
 
 
 
-Icons reference 
+Refer to my [Skill-Icon-Showcase](https://github.com/Amarpreet3/Skill-Icon-Showcase) repository for the icons 
 
 
 
