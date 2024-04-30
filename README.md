@@ -17,27 +17,27 @@
 </a>
 
 <a href="https://www.r-project.org">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg" alt="R" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50">
 </a>
 
 <a href="https://www.iso.org/standard/74528.html">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg" alt="C" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50">
 </a>
 
 <a href="https://isocpp.org">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg" alt="C++" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50">
 </a>
 
 <a href="https://www.oracle.com/java">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/java.svg" alt="Java" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/javascript.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50">
 </a>
 
 <a href="https://www.regular-expressions.info">
-  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/regex.svg" alt="Regex" width="50" height="50">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Regex-Dark.svg" alt="Regex" width="50" height="50">
 </a>
 
 ### -
