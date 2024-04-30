@@ -3,40 +3,9 @@
 - 🌱 With proficiency in Python, SQL, and R, I bring extensive experience in Data Analysis to the table.
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
 - 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
-### Programming Languages:
-- Python
-- R
-- SAS
-- SQL
-- Hadoop
-- Hive
-- Pig
-- Oozie
-- Spark
-- Sqoop
-- XML
-- C
-- C++
-- Java
-- JavaScript
-- Regular Expression (Regex)
-- Power Query
-- M-code language
 
-### Software Attributes:
-- WEKA
-- MongoDB
-- XML
-- Tableau
-- IBM Watson
-- Hortonworks
-- Alteryx
-- SAP
-- MS-Project
-- Power BI
-- QlikView
-- Docker
-- Apache Airflow
+### Programming Languages:
+- :snake: Python
 
 <!---
 Amarpreet3/Amarpreet3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
