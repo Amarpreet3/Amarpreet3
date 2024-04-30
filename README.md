@@ -12,7 +12,10 @@
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Regex](https://skillicons.dev/icons?i=regex)](https://www.regular-expressions.info)
 
-[![Python](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg)](https://www.python.org)
+<a href="https://www.python.org">
+  <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
+</a>
+
 [![R](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/r.svg)](https://www.r-project.org)
 [![C](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/c.svg)](https://www.iso.org/standard/74528.html)
 [![C++](https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/cpp.svg)](https://isocpp.org)
