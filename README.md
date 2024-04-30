@@ -41,13 +41,14 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
 
-[Python](https://www.python.org) <i class="fab fa-python"></i>
-[R](https://www.r-project.org) <i class="fab fa-r-project"></i>
-[C](https://www.iso.org/standard/74528.html) <i class="fas fa-c"></i>
-[C++](https://isocpp.org) <i class="fas fa-code"></i>
-[Java](https://www.oracle.com/java) <i class="fab fa-java"></i>
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js"></i>
-[Regex](https://www.regular-expressions.info) <i class="fas fa-search"></i>
+[Python](https://www.python.org) ![Python Icon](https://github.com/github/octicons/blob/main/icons/python-16.svg)
+[R](https://www.r-project.org) ![R Icon](https://github.com/github/octicons/blob/main/icons/r-16.svg)
+[C](https://www.iso.org/standard/74528.html) ![C Icon](https://github.com/github/octicons/blob/main/icons/c-16.svg)
+[C++](https://isocpp.org) ![C++ Icon](https://github.com/github/octicons/blob/main/icons/c-plusplus-16.svg)
+[Java](https://www.oracle.com/java) ![Java Icon](https://github.com/github/octicons/blob/main/icons/java-16.svg)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript Icon](https://github.com/github/octicons/blob/main/icons/javascript-16.svg)
+[Regex](https://www.regular-expressions.info) ![Regex Icon](https://github.com/github/octicons/blob/main/icons/search-16.svg)
+
 
 
 
