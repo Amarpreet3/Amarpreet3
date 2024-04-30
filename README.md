@@ -41,7 +41,16 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
 
+[Python](https://www.python.org)
+[R](https://www.r-project.org)
+[C](https://www.iso.org/standard/74528.html)
+[C++](https://isocpp.org)
+[Java](https://www.oracle.com/java)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Regex](https://www.regular-expressions.info)
 
+
+Icons reference 
 
 
 
