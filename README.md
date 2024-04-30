@@ -4,22 +4,9 @@
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
 - 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
 
-# Hi, I’m Amarpreet Kaur
-
-👀 As a Research Assistant, Data Scientist, Machine Learning Engineer, Data Analyst, and AI Specialist, I'm deeply passionate about the fields of Data Science and AI.
-
-🌱 With proficiency in Python, SQL, and R, I bring extensive experience in Data Analysis to the table.
-
-💞️ I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
-
-📫 Reach out to me at [amarpreet.kaur@torontomu.ca](mailto:amarpreet.kaur@torontomu.ca) to explore potential collaborations or discuss exciting opportunities.
-
-<!-- Dynamic Badge: -->
-<a href="https://hits.seeyoufarm.com">
-  <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-</a>
-
-
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;6%2B+years+of+coding+experience;Always+learning+new+things"></a>
+</p>
 
 <a href="https://www.python.org">
   <img src="https://github.com/Amarpreet3/Github-readme-skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50">
