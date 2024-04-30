@@ -41,13 +41,14 @@
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org)
 
 
-[Python](https://www.python.org)
-[R](https://www.r-project.org)
-[C](https://www.iso.org/standard/74528.html)
-[C++](https://isocpp.org)
-[Java](https://www.oracle.com/java)
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[Regex](https://www.regular-expressions.info)
+[Python](https://www.python.org) <i class="fab fa-python"></i>
+[R](https://www.r-project.org) <i class="fab fa-r-project"></i>
+[C](https://www.iso.org/standard/74528.html) <i class="fas fa-c"></i>
+[C++](https://isocpp.org) <i class="fas fa-code"></i>
+[Java](https://www.oracle.com/java) <i class="fab fa-java"></i>
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="fab fa-js"></i>
+[Regex](https://www.regular-expressions.info) <i class="fas fa-search"></i>
+
 
 
 Icons reference 
