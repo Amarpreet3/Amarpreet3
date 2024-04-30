@@ -56,3 +56,17 @@
 [![PowerQuery](https://skillicons.dev/icons?i=powerquery)](https://powerquery.microsoft.com)
 [![MCode](https://skillicons.dev/icons?i=mcode)](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-reference)
 
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Tableau](https://skillicons.dev/icons?i=tableau)](https://www.tableau.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Apache Airflow](https://skillicons.dev/icons?i=airflow)](https://airflow.apache.org)
+
+- [WEKA](https://www.cs.waikato.ac.nz/ml/weka/)
+- [IBM Watson](https://www.ibm.com/watson)
+- [Hortonworks](https://cloudera.com/about/hortonworks.html)
+- [Alteryx](https://www.alteryx.com)
+- [SAP](https://www.sap.com)
+- [MS-Project](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software)
+- [Power BI](https://powerbi.microsoft.com)
+- [QlikView](https://www.qlik.com/us/products/qlikview)
+
