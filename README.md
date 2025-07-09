@@ -2,7 +2,7 @@
 - 👀 As a Research Assistant, Data Scientist, Machine Learning Engineer, Data Analyst, and AI Specialist, I'm deeply passionate about the fields of Data Science and AI.
 - 🌱 With proficiency in Python, SQL, and R, I bring extensive experience in Data Analysis to the table.
 - 💞️  I'm actively seeking collaboration opportunities on innovative projects that leverage my skills and expertise.
-- 📫  Reach out to me at amarpreet.kaur@torontomu.ca to explore potential collaborations or discuss exciting opportunities.
+- 📫  Reach out to me at gurmkauramarpreet@gmail.com to explore potential collaborations or discuss exciting opportunities.
 
 
 <a href="https://www.python.org">
